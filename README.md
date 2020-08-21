@@ -38,9 +38,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/akhilsarasan">
+<!--<a href="https://github.com/akhilsarasan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilsarasan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
+</a>-->
 <a href="https://github.com/akhilsarasan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsarasan&theme=light&hide_langs_below=1" />
 </a>
