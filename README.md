@@ -1,4 +1,4 @@
-
+  ## Hola, I'm AKHIL SARASAN!  👋
 - 🔭 I’m currently working at wipro
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about React Python Cpp
@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilsarasan&label=Views&color=blue&style=plastic" alt="akhilsarasan" /> </p>
 
 
 <a href="https://github.com/akhilsarasan">
