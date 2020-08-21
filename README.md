@@ -41,3 +41,4 @@
 <a href="https://github.com/akhilsarasan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilsarasan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsarasan)](https://github.com/akhilsarasan/github-readme-stats)
