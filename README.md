@@ -10,7 +10,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <a href="https://twitter.com/akhilsarasan1">
   
@@ -29,7 +29,7 @@
 <a href="https://www.facebook.com/akhilsarasan0/">
   <img align="left" alt="Akhil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 <br/>
 <br/>
 <br/>
