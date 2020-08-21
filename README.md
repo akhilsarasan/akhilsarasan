@@ -32,7 +32,7 @@
 </a>
 
 <br/>
-<p/>
+
 ------------------------------------------------------------------------------------------------------------------------------
 [![Twitter: akhilsarasan1](https://img.shields.io/twitter/follow/akhilsarasan?style=social)](https://twitter.com/akhilsarasan1)
 [![Linkedin: akhilsarasan](https://img.shields.io/badge/-akhilsarasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilsarasan/)](https://www.linkedin.com/in/akhilsarasan/)
