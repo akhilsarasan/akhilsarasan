@@ -29,16 +29,7 @@
 <a href="https://www.facebook.com/akhilsarasan0/">
   <img align="left" alt="Akhil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br/>
-<br/>
---------------------------------------------------------------------------------------------------------------------------------------------
-<br/>
-<br/>
-<br/>
 
-[![Twitter: akhilsarasan1](https://img.shields.io/twitter/follow/akhilsarasan?style=social)](https://twitter.com/akhilsarasan1)
-[![Linkedin: akhilsarasan](https://img.shields.io/badge/-akhilsarasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilsarasan/)](https://www.linkedin.com/in/akhilsarasan/)
-[![GitHub akhilsarasan](https://img.shields.io/github/followers/akhilsarasan?label=follow&style=social)](https://github.com/akhilsarasan)
 <br/>
 <br/>
 
@@ -49,6 +40,12 @@
 <a href="https://github.com/akhilsarasan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilsarasan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
+
+[![Twitter: akhilsarasan1](https://img.shields.io/twitter/follow/akhilsarasan?style=social)](https://twitter.com/akhilsarasan1)
+[![Linkedin: akhilsarasan](https://img.shields.io/badge/-akhilsarasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilsarasan/)](https://www.linkedin.com/in/akhilsarasan/)
+[![GitHub akhilsarasan](https://img.shields.io/github/followers/akhilsarasan?label=follow&style=social)](https://github.com/akhilsarasan)
+<br/>
+<br/>
 
 
 <br />
