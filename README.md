@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 --------------------------------------------------------------------------------------------------------------------------------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilsarasan&label=Views&color=blue&style=plastic" alt="akhilsarasan" /> </p>
+
 <a href="https://twitter.com/akhilsarasan1">
   
   <img align="left" alt="AKhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -30,6 +30,8 @@
   <img align="left" alt="Akhil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br/>
+<br/>
 <br/>
 
 [![Twitter: akhilsarasan1](https://img.shields.io/twitter/follow/akhilsarasan?style=social)](https://twitter.com/akhilsarasan1)
