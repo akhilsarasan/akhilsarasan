@@ -1,5 +1,17 @@
   ## Hola, I'm AKHIL SARASAN!  👋
+---------------------------------------------------------------------------------------------------------------------------------------------
+<br/>
 
+- 🔭 I’m currently working at wipro
+- 🌱 I’m currently learning React JS
+- 💬 Ask me about React Python Cpp
+
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ..
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...-->
+--------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilsarasan&label=Views&color=blue&style=plastic" alt="akhilsarasan" /> </p>
 <a href="https://twitter.com/akhilsarasan1">
   
@@ -20,17 +32,6 @@
 </a>
 
 <br/>
-<br/>
-
-- 🔭 I’m currently working at wipro
-- 🌱 I’m currently learning React JS
-- 💬 Ask me about React Python Cpp
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
 
 [![Twitter: akhilsarasan1](https://img.shields.io/twitter/follow/akhilsarasan?style=social)](https://twitter.com/akhilsarasan1)
 [![Linkedin: akhilsarasan](https://img.shields.io/badge/-akhilsarasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilsarasan/)](https://www.linkedin.com/in/akhilsarasan/)
