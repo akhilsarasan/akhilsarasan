@@ -31,8 +31,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-<br/>
-<br/>
+
 [![Twitter: akhilsarasan1](https://img.shields.io/twitter/follow/akhilsarasan?style=social)](https://twitter.com/akhilsarasan1)
 [![Linkedin: akhilsarasan](https://img.shields.io/badge/-akhilsarasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilsarasan/)](https://www.linkedin.com/in/akhilsarasan/)
 [![GitHub akhilsarasan](https://img.shields.io/github/followers/akhilsarasan?label=follow&style=social)](https://github.com/akhilsarasan)
