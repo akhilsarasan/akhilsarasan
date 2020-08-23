@@ -1,6 +1,5 @@
   ## Hola, I'm AKHIL SARASAN!  👋
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=akhilsarasan&label=Views&color=blue&style=plastic" alt="akhilsarasan" /> </p>
-
+  
 - 🔭 I’m currently working at wipro
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about React Python Cpp
@@ -61,4 +60,5 @@
 
 
 <br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akhilsarasan&label=Views&color=blue&style=plastic" alt="akhilsarasan" /> </p>
 
