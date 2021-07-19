@@ -1,6 +1,6 @@
   ## Hola, I'm AKHIL SARASAN!  👋
   
-- 🔭 I’m currently working at wipro
+- 🔭 I’m currently working at Capgemini
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about React Python Cpp
 
