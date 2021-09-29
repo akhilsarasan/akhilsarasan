@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at Capgemini
 - 🌱 I’m currently learning Next JS
 - 💬 Ask me about React..
-- 
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ..
 - 📫 How to reach me: ...
