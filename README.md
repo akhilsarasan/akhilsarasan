@@ -1,7 +1,7 @@
   ## Hola, I'm AKHIL SARASAN!  👋
   
-- 🔭 I’m currently working at Capgemini
-- 🌱 I’m currently learning Next JS
+- 🔭 I’m currently working at Cognizant
+- 🌱 I’m currently learning Next JS,Vue
 - 💬 Ask me about React..
 
 <!-- - 👯 I’m looking to collaborate on ...
